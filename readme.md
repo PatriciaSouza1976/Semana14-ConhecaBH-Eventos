@@ -1,10 +1,5 @@
  Semana 14 - Conheça BH
 
-Este projeto foi desenvolvido como atividade prática da Semana 14 da disciplina, com foco na apresentação visual, dinâmica e interativa de dados turísticos de Belo Horizonte.
-
-A aplicação permite explorar destinos turísticos por meio de gráficos, calendário interativo, mapa e funcionalidades de cadastro dinâmico.
-
-
 Informações do aluno
 
 Nome: Patricia de Souza  
@@ -61,4 +56,6 @@ Exclusão de destino
 ![Exclusão de destino](assets/imagem/exclusao_destino.png)
 
 
+Projeto desenvolvido para a atividade prática da Semana 14 da disciplina,  com foco na apresentação visual, dinâmica e interativa de dados turísticos de Belo Horizonte.
 
+A aplicação permite explorar destinos turísticos por meio de gráficos, calendário interativo, mapa e funcionalidades de cadastro dinâmico.
